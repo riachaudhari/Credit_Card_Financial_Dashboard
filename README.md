@@ -22,13 +22,13 @@ This project offers a overall view of our credit card business, enabling data
 
 The dashboard breaks down revenue by:
 
-Customer job types
+1.Customer job types
 
-Education levels
+2.Education levels
 
-Geographical regions
+3.Geographical regions
 
-Expenditure categories
+4.Expenditure categories
 
 We have analyzed card types,customer acquisition costs and quaterly performance
 
